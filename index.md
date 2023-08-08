@@ -1,3 +1,5 @@
+If you have any questions, please contact us at neuripscreativityworkshop@googlegroups.com
+
 ## Introduction
 
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music including recent advances, such as large language models like ChatGPT/Bard/Claude, high quality text to images models like Stable Diffusion/MidJourney, plus AudioLM and MusicLM. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
@@ -25,11 +27,7 @@ The goal of this workshop is to bring together researchers and artists intereste
 TBD
 
 
-## Contact
-
-If you have any questions, please contact us at *neuripscreativityworkshop@googlegroups.com*
-
-Previous years:
+## Previous years:
 * [2022 workshop](https://neuripscreativityworkshop.github.io/2022) (virtual)
 * [2021 workshop](https://neuripscreativityworkshop.github.io/2021) (virtual)
 * [2020 workshop](https://neurips2020creativity.github.io/) (virtual)
@@ -70,3 +68,5 @@ Yingtao Tian<br>
 Lia Coleman<br>
 Hannah Johnston<br>
 Tom White<br>
+
+If you have any questions, please contact us at neuripscreativityworkshop@googlegroups.com
