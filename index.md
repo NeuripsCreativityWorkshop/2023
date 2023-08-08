@@ -1,4 +1,4 @@
-If you have any questions, please contact us at neuripscreativityworkshop@googlegroups.com
+If you have any questions, please contact us at *neuripscreativityworkshop@googlegroups.com*.
 
 ## Introduction
 
@@ -64,9 +64,9 @@ References and any supplementary materials provided do not count as part of the 
 
 ## Organisers
 
-Yingtao Tian<br>
-Lia Coleman<br>
-Hannah Johnston<br>
-Tom White<br>
+* Yingtao Tian<br>
+* Lia Coleman<br>
+* Hannah Johnston<br>
+* Tom White<br>
 
-If you have any questions, please contact us at neuripscreativityworkshop@googlegroups.com
+If you have any questions, please contact us at *neuripscreativityworkshop@googlegroups.com*.
