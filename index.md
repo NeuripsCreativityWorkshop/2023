@@ -76,4 +76,4 @@ References and any supplementary materials provided do not count as part of the 
 * Hannah Johnston, Carleton University
 * Tom White, Victoria University of Wellington
 
-If you have any questions, please contact us at *neuripscreativityworkshop@googlegroups.com*.
+If you have any questions, please contact us at [neuripscreativityworkshop@googlegroups.com](mailto:neuripscreativityworkshop@googlegroups.com) 
