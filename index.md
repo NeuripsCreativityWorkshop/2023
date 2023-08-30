@@ -28,23 +28,14 @@ The goal of this workshop is to bring together researchers and artists intereste
 ## Schedule
 TBD
 
-
-## Previous years:
-* [2022 workshop](https://neuripscreativityworkshop.github.io/2022) (virtual)
-* [2021 workshop](https://neuripscreativityworkshop.github.io/2021) (virtual)
-* [2020 workshop](https://neurips2020creativity.github.io/) (virtual)
-* [2019 workshop](http://neurips2019creativity.github.io/) (Vancouver, Canada)
-* [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
-* [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
-
 ## How to attend
 
 A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). This will allow you to access our website on NeurIPS with links to the livestream, poster session and socials.
 
 
-## Call for Submissions
+## Call for Papers
 
-We invite submissions in the form of papers. *The deadline for paper submissions is Wednesday Sep 27 at 11:59pm (anywhere on earth).*
+We invite submissions in the form of papers. **The deadline for paper submissions is Wednesday Sep 27 at 11:59pm (anywhere on earth).**
 
 To Submit a Paper: We invite participants to submit 2-page papers in the [NeurIPS camera-ready format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) (with author names visible), to be submitted to [our CMT portal](https://cmt3.research.microsoft.com/ML4CD2023).
 
@@ -69,6 +60,15 @@ References and any supplementary materials provided do not count as part of the 
 * Dec 16 (in-person): Workshop Date
 
 
+## Previous years:
+* [2022 workshop](https://neuripscreativityworkshop.github.io/2022) (virtual)
+* [2021 workshop](https://neuripscreativityworkshop.github.io/2021) (virtual)
+* [2020 workshop](https://neurips2020creativity.github.io/) (virtual)
+* [2019 workshop](http://neurips2019creativity.github.io/) (Vancouver, Canada)
+* [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
+* [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
+
+  
 ## Organisers
 
 * Yingtao Tian<br>
