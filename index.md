@@ -19,7 +19,7 @@ We will aim to balance addressing the technical issues and challenges of applyin
 The goal of this workshop is to bring together researchers and artists interested in exploring the intersection of human creativity and machine learning. This workshop solicits viewpoints from artists and technology developers to look beyond technical issues to better understand the needs of artists and creators. 
 
 ## Invited Speakers
-- Jun-Yan Zhu, CMU
+- Jun-Yan Zhu, Carnegie Mellon University
 - Cristóbal Valenzuela, Runwayml Co-Founder and CEO
 - Lvming Zhang, Stanford University
 - Misha Konstantinov and Daria Bakshandaeva, DeepFloyd Lead Researchers
@@ -71,9 +71,9 @@ References and any supplementary materials provided do not count as part of the 
   
 ## Organisers
 
-* Yingtao Tian<br>
-* Lia Coleman<br>
-* Hannah Johnston<br>
-* Tom White<br>
+* Yingtao Tian, Google Brain
+* Lia Coleman, Carnegie Mellon University
+* Hannah Johnston, Carleton University
+* Tom White, Victoria University of Wellington
 
 If you have any questions, please contact us at *neuripscreativityworkshop@googlegroups.com*.
