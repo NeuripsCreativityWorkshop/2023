@@ -18,7 +18,7 @@ The goal of this workshop is to bring together researchers and artists intereste
 
 ## Invited Speakers
 - Jun-Yan Zhu, Carnegie Mellon University
-- Cristóbal Valenzuela, Runwayml Co-Founder and CEO
+- Cristóbal Valenzuela, RunwayML Co-Founder and CEO
 - Lvming Zhang, Stanford University
 - Misha Konstantinov and Daria Bakshandaeva, DeepFloyd Lead Researchers
 - Angjoo Kanazawa, UC Berkeley
