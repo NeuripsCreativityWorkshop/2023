@@ -1,5 +1,7 @@
 If you have any questions, please contact us at [neuripscreativityworkshop@googlegroups.com](mailto:neuripscreativityworkshop@googlegroups.com) 
 
+You can also follow us on Twitter for updates: [@ML4CDworkshop](https://twitter.com/ML4CDworkshop)
+
 ## Introduction
 
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music including recent advances, such as large language models like ChatGPT/Bard/Claude, high quality text to images models like Stable Diffusion/MidJourney, plus AudioLM and MusicLM. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
