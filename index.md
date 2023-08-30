@@ -4,15 +4,13 @@ If you have any questions, please contact us at [neuripscreativityworkshop@googl
 
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music including recent advances, such as large language models like ChatGPT/Bard/Claude, high quality text to images models like Stable Diffusion/MidJourney, plus AudioLM and MusicLM. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
 
-* State-of-the-art algorithms for the creation of new media. Machine learning models achieving state-of-the-art in traditional media creation tasks (e.g., text, image, audio, or video synthesis) that are also being used by the artist community will be showcased. This year, especially, with the popular chatbot models like ChatGPT, language becomes a new focus where creativity shines. Furthermore, novel media like 3D, or multiple media in a single workflow, are taking shape, waiting to be the next attention.
+* *State-of-the-art algorithms for the creation of new media.* Machine learning models achieving state-of-the-art in traditional media creation tasks (e.g., text, image, audio, or video synthesis) that are also being used by the artist community will be showcased. This year, especially, with the popular chatbot models like ChatGPT, language becomes a new focus where creativity shines. Furthermore, novel media like 3D, or multiple media in a single workflow, are taking shape, waiting to be the next attention.
 
-* Artist accessibility, fine-tuning and collaboration of machine learning models. Researchers building the next generation of machine learning models for media creation will be challenged in understanding the needs of artists.
+* *Artist accessibility, fine-tuning and collaboration of machine learning models.* Researchers building the next generation of machine learning models for media creation will be challenged in understanding the needs of artists. Human Computer interaction and User Experience communities and those using developing machine learning-based creative tools. More importantly, with new techniques like LoRA and ControlNet, artists and practitioners can fine-tune their own models, and share as well as compose many of them on community driven platforms.
 
-* Human Computer interaction and User Experience communities and those using developing machine learning-based creative tools. More importantly, with new techniques like LoRA and ControlNet, artists and practitioners can fine-tune their own models, and share as well as compose many of them on community driven platforms.
+* *The social and cultural impact of these new models.* Ethical implications, ranging from the use of biased datasets, replicating artistic work, and potential eroding trust in media content.
 
-* The social and cultural impact of these new models. Ethical implications, ranging from the use of biased datasets, replicating artistic work, and potential eroding trust in media content.
-
-* Artistic applications. Finally, we will hear from some of the artists who are adopting machine learning--including deep learning and reinforcement learning--as part of their own artistic process.
+* *Artistic applications.* Finally, we will hear from some of the artists who are adopting machine learning--including deep learning and reinforcement learning--as part of their own artistic process.
 
 We will aim to balance addressing the technical issues and challenges of applying the latest Machine Learning models and techniques to creativity and design with the philosophical and cultural issues that surround this area of research.
 
