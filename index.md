@@ -23,7 +23,7 @@ The goal of this workshop is to bring together researchers and artists intereste
 - Cristóbal Valenzuela, RunwayML Co-Founder and CEO
 - Lvming Zhang, Stanford University
 - Misha Konstantinov and Daria Bakshandaeva, DeepFloyd Lead Researchers
-- Angjoo Kanazawa, UC Berkeley
+- Aleksander Holynski, UC Berkeley and Google Research
 
 ## Schedule
 TBD
