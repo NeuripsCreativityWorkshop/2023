@@ -94,7 +94,30 @@ During the workshop, we also may invite a few select creators of accepted artwor
 * [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
 * [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
 
-  
+
+## Connection with NeurIPS Creative AI Track
+
+As you may have seen, NeurIPS is having their first creative AI track this year, for artistic submissions: https://neurips.cc/Conferences/2023/CallForCreativeAI . We are excited that there is more interest in and visibility for creative AI now. 
+
+Both the organizers of this ML4CD workshop and the NeurIPS Creative AI track share the same goal: giving creative AI a platform! In doing so, we are actively collaborating with them, and are in close communication with the Creative AI Track chairs. 
+
+Since this is the first year that the NeurIPS Creative AI track is occurring, this first year our calls for art are separate, but in future years we may collaborate in a more direct way. 
+
+Their call for art already occurred, but you can submit to either/both!
+
+For more in-depth specific differences between this ML4CD workshop’s call for art and the NeurIPS Creative AI Track, we have detailed them below:
+
+* First, the requirement for thematic/conceptual focus differs.
+    * In this workshop, we do not have a particular thematic/conceptual focus on the artwork, aside from the fact that the art should use AI or ML. 
+    * On the other hand, the NeurIPS Creative AI Track has a thematic focus of Celebrating Diversity this year, and all artwork there will be related to this theme.
+
+* Additionally, the installation and presentation of the artwork will differ. 
+    * Since this year the ML4CD workshop will take place in-person, our art show will take the form of a video slideshow screening in the ML4CD workshop room at NeurIPS. This art show video will be posted on our website and also our YouTube.
+    * We also will have a select number of artwork spotlights, as in previous years, for a few high-quality artworks. These selected artists will have the opportunity to deliver an oral presentation of their artwork at the workshop. 
+    * Our workshop, and the art show, will remain mainly within our workshop room at the conference venue, on Sat Dec 16.
+    * In contrast, the NeurIPS Creative AI Track will have both physical installations/displays throughout the conference venue (for strongly accepted artworks), as well as a video screening (for weakly accepted artworks). This will take place over the entire duration of the conference, which is about a week long.
+
+
 ## Organisers
 
 * Yingtao Tian, Google Brain
