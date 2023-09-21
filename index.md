@@ -54,8 +54,34 @@ Papers will be reviewed by committee members in a single-blind process, and acce
 
 References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be the reviewers’ discretion to read the supplementary materials.
 
+## Call for Artwork
+
+We welcome submission of artwork that has been created using machine learning (autonomously or with humans). **The deadline for artwork submissions is Monday Oct 30 at 11:59pm (anywhere on earth).**
+ 
+We invite art submissions in any medium, including but not limited to:
+* Image
+* Video
+* Music, Sound, Audio
+* Writing, Poetry
+* Dance, Performance,
+* Installation, Physical Object, Food, etc
+
+This year we are asking for submissions to consist of:
+* In a text file, include the title, year, artist(s), and description (up to 200 words). Name the text file like: project_name_00.txt.
+* One 1080 x 1920 landscape image. Name this image like: project_name_01.png. Both PNG and JPG/JPEG formats are acceptable. This image could be a work of art itself, or a single cover slide to describe the project.
+* Optional: Up to 3 additional 1080 x 1920 landscape images. Name these like: project_name_03.png, project_name_04.png, project_name_05.png.
+* Optional: One 1080 x 1920 MP4 landscape video of up to 60 seconds showing the work in more detail. Name this like: project_name_03.mp4.
+
+Place these in a single zip archive called project_name.zip. 
+
+Submit this zip file through [our CMT portal](https://cmt3.research.microsoft.com/ML4CD2023).
+
+The reason for this specific submission format is because the workshop will screen the accepted art pieces as a video slideshow (which is why we ask for the landscape format). This video of all the accepted artworks will be posted on our website as well.
+During the workshop, we also may invite a few select creators of accepted artwork to participate in the form of a short talk.
+
 ## Important Dates
 * Sep 27: Paper submission deadline, 11:59pm (anywhere on earth)
+* Oct 30, Artwork submission deadline, 11:59pm (anywhere on earth)
 * Oct 25: Acceptance Notifications 
 * Dec 16 (in-person): Workshop Date
 
