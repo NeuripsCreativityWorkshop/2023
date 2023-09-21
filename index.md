@@ -106,7 +106,7 @@ Since this is the first year that the NeurIPS Creative AI track is occurring, th
 
 Their call for art already occurred, but you can submit to either/both!
 
-For more in-depth specific differences between this ML4CD workshop’s call for art and the NeurIPS Creative AI Track, we have detailed them below:
+*For more in-depth specific differences between this ML4CD workshop’s call for art and the NeurIPS Creative AI Track, we have detailed them below:*
 
 * First, the requirement for thematic/conceptual focus differs.
     * In this workshop, we do not have a particular thematic/conceptual focus on the artwork, aside from the fact that the art should use AI or ML. 
