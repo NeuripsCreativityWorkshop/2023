@@ -24,9 +24,30 @@ The goal of this workshop is to bring together researchers and artists intereste
 - Lvming Zhang, Stanford University
 - Misha Konstantinov and Daria Bakshandaeva, DeepFloyd Lead Researchers
 - Aleksander Holynski, UC Berkeley and Google Research
+- Alexander Mordvintsev, Google Research
 
 ## Schedule
-TBD
+
+The following schedule is tentative.
+
+| Time (CST) | Duration | Event                               |
+|------------|----------|-------------------------------------|
+|    8:15 AM |  0:15:00 | Welcome and Introduction            |
+|    8:30 AM |  0:30:00 | Invited Talk 1                      |
+|    9:30 AM |  0:30:00 | Invited Talk 2                      |
+|    9:00 AM |  0:30:00 | Invited Talk 3                      |
+|   10:00 AM |  0:30:00 | Art gallery / Coffee Break / Social |
+|   10:30 AM |  0:30:00 | Panel Discussion                    |
+|   11:00 AM |  1:00:00 | Paper Orals + Artwork Shpotlights   |
+|   12:00 PM |  1:00:00 | Lunch                               |
+|    1:00 PM |  0:30:00 | Invited Talk 4                      |
+|    1:30 PM |  0:30:00 | Invited Talk 5                      |
+|    2:00 PM |  0:30:00 | Invited Talk 6                      |
+|    2:30 PM |  0:30:00 | Panel/Open Discussion               |
+|    3:00 PM |  0:30:00 | Art / Coffee Break / Social         |
+|    3:30 PM |  1:00:00 | Poster session                      |
+|    4:30 PM |  0:10:00 | Conclusion                          |
+|    4:40 PM |  1:00:00 | Free-formed discussion              |
 
 ## How to attend
 
