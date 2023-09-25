@@ -119,7 +119,7 @@ During the workshop, we also may invite a few select creators of accepted artwor
 
 ## Connection with NeurIPS Creative AI Track
 
-As you may have seen, NeurIPS is having their first creative AI track this year, for artistic submissions: https://neurips.cc/Conferences/2023/CallForCreativeAI . We are excited that there is more interest in and visibility for creative AI now. 
+As you may have seen, NeurIPS is having their first [creative AI track](https://neurips.cc/Conferences/2023/CallForCreativeAI) this year, for artistic submissions. We are excited that there is more interest in and visibility for creative AI now. 
 
 Both the organizers of this ML4CD workshop and the NeurIPS Creative AI track share the same goal: giving creative AI a platform! In doing so, we are actively collaborating with them, and are in close communication with the Creative AI Track chairs. 
 
