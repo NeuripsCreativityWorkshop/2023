@@ -101,7 +101,7 @@ The reason for this specific submission format is because the workshop will scre
 During the workshop, we also may invite a few select creators of accepted artwork to participate in the form of a short talk.
 
 ## Important Dates
-* Sep 27: Paper submission deadline, 11:59pm (anywhere on earth)
+* Oct 6 ~~Sep 27~~: Paper submission deadline, 11:59pm (anywhere on earth)
 * Oct 30, Artwork submission deadline, 11:59pm (anywhere on earth)
 * Oct 25: Paper Acceptance Notifications
 * Nov 30: Artwork Acceptance Notifications 
