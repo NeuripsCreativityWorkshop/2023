@@ -51,7 +51,7 @@ The following schedule is tentative.
 
 ## How to attend
 
-A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). This will allow you to access our website on NeurIPS with links to the livestream, poster session and socials.
+A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). This will allow you to attend the workshop in-person. The workshop will be held on Saturday Dec 16 at the New Orleans Ernest N. Morial Convention Center.
 
 
 ## Call for Papers
