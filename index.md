@@ -56,7 +56,7 @@ A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). Th
 
 ## Call for Papers
 
-We invite submissions in the form of papers. **The deadline for paper submissions is Wednesday Sep 27 at 11:59pm (anywhere on earth).**
+We invite submissions in the form of papers. **The deadline for paper submissions is Friday Oct 6 ~~Wednesday Sep 27~~ at 11:59pm (anywhere on earth).**
 
 To Submit a Paper: We invite participants to submit 2-page papers in the [NeurIPS camera-ready format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) (with author names visible), to be submitted to [our CMT portal](https://cmt3.research.microsoft.com/ML4CD2023).
 
