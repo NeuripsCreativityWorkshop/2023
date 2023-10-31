@@ -102,8 +102,8 @@ During the workshop, we also may invite a few select creators of accepted artwor
 
 ## Important Dates
 * Oct 6 ~~Sep 27~~: Paper submission deadline, 11:59pm (anywhere on earth)
-* Oct 30, Artwork submission deadline, 11:59pm (anywhere on earth)
-* Oct 25: Paper Acceptance Notifications
+* Oct 27 ~~Oct 25~~: Paper Acceptance Notifications
+* Nov 07 ~~Oct 30~~, Artwork submission deadline, 11:59pm (anywhere on earth)
 * Nov 30: Artwork Acceptance Notifications 
 * Dec 16 (in-person): Workshop Date
 
