@@ -77,7 +77,7 @@ References and any supplementary materials provided do not count as part of the 
 
 ## Call for Artwork
 
-We welcome submission of artwork that has been created using machine learning (autonomously or with humans). **The deadline for artwork submissions is Monday Oct 30 at 11:59pm (anywhere on earth).**
+We welcome submission of artwork that has been created using machine learning (autonomously or with humans). **The deadline for artwork submissions is Nov 07 ~~Oct 30~~ at 11:59pm (anywhere on earth).**
  
 We invite art submissions in any medium, including but not limited to:
 * Image
