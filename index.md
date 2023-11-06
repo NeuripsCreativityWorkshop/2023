@@ -38,7 +38,7 @@ The following schedule is tentative.
 |    9:30 AM |  0:30:00 | Invited Talk 3                      |
 |   10:00 AM |  0:30:00 | Art gallery / Coffee Break / Social |
 |   10:30 AM |  0:30:00 | Panel Discussion                    |
-|   11:00 AM |  1:00:00 | Paper Orals + Artwork Spotlight    |
+|   11:00 AM |  1:00:00 | Paper & Artwork Spotlight           |
 |   12:00 PM |  1:00:00 | Lunch                               |
 |    1:00 PM |  0:30:00 | Invited Talk 4                      |
 |    1:30 PM |  0:30:00 | Invited Talk 5                      |
