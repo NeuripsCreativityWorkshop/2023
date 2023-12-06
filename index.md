@@ -49,6 +49,47 @@ The following schedule is tentative.
 |    4:30 PM |  0:10:00 | Conclusion                          |
 |    4:40 PM |  1:00:00 | Free-formed discussion              |
 
+
+## Accepted Papers
+          
+* marks spotlight paper.
+
+| # | Title    | Authors  |
+|---------|----------|--------|
+| 1  | [Latent Painter](papers/ml4cd2023_paper01.pdf) | Su, Shih-Chieh |
+| 2 * | [Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application](papers/ml4cd2023_paper02.pdf) | Kim, Bumsoo; Byun, Sanghyun; Jung, Yonghoon; Shin, Wonseop; Ul Amin, Sareer; Seo, Sanghyun |
+| 3  | [BioSpark: An End-to-end Generative System for Biological-Analogical Inspirations and Ideation](papers/ml4cd2023_paper03.pdf) | Kang, Hyeonsu; Lin, David Chuan-En; Martelaro, Nikolas; Kittur, Aniket; Chen, Yan-Ying; Hong, Matthew K |
+| 4  | [Interactive Machine Learning for Generative Models](papers/ml4cd2023_paper04.pdf) | Shimizu, Junichi; olowe, ireti; Broad, Terence; Vigliensoni, Gabriel; Thattai Ravikumar, Prashanth; Fiebrink, Rebecca |
+| 5 * | [SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions](papers/ml4cd2023_paper05.pdf) | Lee, Yuseung; Kim, Kunho; Kim, Hyunjin; Sung, Minhyuk |
+| 6 * | [Real-time Animation Generation and Control on Rigged Models via Large Language Models](papers/ml4cd2023_paper06.pdf) | Huang, Han; De La Torre Romo, Fernanda; Fang, Cathy Mengying; Banburski, Andrzej; Amores, Judith; Lanier, Jaron |
+| 7  | [The Interface for Symbolic Music Loop Generation Conditioned on Musical Metadata](papers/ml4cd2023_paper07.pdf) | Han, Sangjun; Ihm, Hyeongrae; Lim, Woohyung |
+| 8  | [Weaving ML with Human Aesthetic Assessments to Augment Design Space Exploration](papers/ml4cd2023_paper08.pdf) | Jeon, Youngseung; Hong, Matthew K; Chen, Yan-Ying; Murakami, Kalani; Li, Jonathan; Chen, Xiang 'Anthony'; Klenk, Matthew |
+| 9 * | [Envisioning Distant Worlds: Training a Latent Diffusion Model with NASA's Exoplanet Data](papers/ml4cd2023_paper09.pdf) | Beaty, Marissa; Broad, Terence |
+| 10  | [Zero2Story: Novel Generation Framework for Anyone](papers/ml4cd2023_paper10.pdf) | Park, Chansung; Lee, Youngbin; Han, Sangjoon; Lee, Jungue |
+| 11  | [On the Distillation of Stories for Transferring Narrative Arcs in Collections of Independent Media](papers/ml4cd2023_paper11.pdf) | Ashley, Dylan R; Herrmann, Vincent; Friggstad, Zachary; Schmidhuber, Jürgen  |
+| 12  | [Breaking Barriers to Creative Expression: Co-Designing and Implementing an Accessible Text-to-Image Interface](papers/ml4cd2023_paper12.pdf) | Taheri, Atieh; Izadi, Mohammad; Shriram, Gururaj; Rostamzadeh, Negar; Kane, Shaun |
+| 13  | [Multi-Subject Personalization](papers/ml4cd2023_paper13.pdf) | Jain, Arushi; Paliwal, Shubham Singh; Sharma, Monika; Jamwal, Vikram; Vig, Lovekesh |
+| 14  | [CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model](papers/ml4cd2023_paper14.pdf) | Liao, Qisheng; Wang, Zhinuo; Abdul-Mageed, Muhammad; Xia, Gus |
+| 15  | [CAD-LLM: Large Language Model for CAD Generation](papers/ml4cd2023_paper15.pdf) | Wu, Sifan; Khasahmadi, Amir Hosein; Katz, Mor; Jayaraman, Pradeep Kumar; Pu, Yewen; Willis, Karl D.D.; Liu, Bang |
+| 16  | [Unrolling Virtual Worlds for Immersive Experiences](papers/ml4cd2023_paper16.pdf) | Tikhonov, Alexey; Repushko, Anton |
+| 17  | [Setting Switcher: Changing genre-settings in text-based game environments populated by generative agents](papers/ml4cd2023_paper17.pdf) | Wood, Oliver H; Fiebrink, Rebecca |
+| 18 * | [LEDITS++: Limitless Image Editing using Text-to-Image Models](papers/ml4cd2023_paper18.pdf) | Brack, Manuel; Tsaban, Linoy; Kornmeier, Katharina; Passos, Apolinário; Friedrich, Felix; Schramowski, Patrick; Kersting, Kristian |
+| 19  | [V2Meow: Meowing to the Visual Beat via Music Generation](papers/ml4cd2023_paper19.pdf) | Li, Judith Yue; Su, Kun; Huang, Qingqing; Kuzmin, Dima; Lee, Joonseok; Donahue, Chris; Sha, Fei; Jansen, Aren; Wang, Yu; Verzetti, Mauro; Denk, Timo I |
+| 20  | [DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models](papers/ml4cd2023_paper20.pdf) | Wang, Tsun-Hsuan; Zheng, Juntian; Ma, Pingchuan; Du, Yilun; Kim, Byungchul; Spielberg, Andrew; Tenenbaum, Joshua; Gan, Chuang; Rus, Daniela  |
+| 21  | [An Ontology of Co-Creative AI Systems](papers/ml4cd2023_paper21.pdf) | Lin, Zhiyu; Riedl, Mark |
+| 22  | [ObjectComposer: Consistent Generation of Multiple Objects Without Fine-tuning](papers/ml4cd2023_paper22.pdf) | Helbling, Alec F; Montoya, Evan; Chau, Duen Horng |
+| 23  | [HARP: Bringing Deep Learning to the DAW with Hosted, Asynchronous, Remote Processing](papers/ml4cd2023_paper23.pdf) | Flores Garcia, Hugo F ; Benetatos, Christodoulos; O'Reilly, Patrick; Aguilar, Aldo; Duan, Zhiyao; Pardo, Bryan |
+| 24  | [Contextual Alchemy: A Framework for Enhanced Readability through Cross-Domain Entity Alignment](papers/ml4cd2023_paper24.pdf) | Shahid, Simra; Srikanth, Nikitha; Jandial, Surgan; Krishnamurthy, Balaji |
+| 25  | [JamSketch Deep α: Towards Musical Improvisation based on Human-machine Collaboration](papers/ml4cd2023_paper25.pdf) | Kitahara, Tetsuro; Yonamine, Akio |
+| 26  | [Hacking Generative Models with Differentiable Network Bending](papers/ml4cd2023_paper26.pdf) | Aldegheri, Giacomo; Rogalska, Alina; Youssef, Ahmed; Iofinova, Eugenia |
+| 27  | [Lasagna: Layered Score Distillation for Disentangled Image Editing](papers/ml4cd2023_paper27.pdf) | Bashkirova, Dina; Ray, Arijit; Mallick, Rupayan; Bargal, Sarah; Zhang, Jianming; Krishna, Ranjay; Saenko, Kate |
+| 28  | [CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images](papers/ml4cd2023_paper28.pdf) | Gokaslan, Aaron K; Cooper, A. Feder; Collins, Jasmine; Seguin, Landan; Jacobson, Austin; patel, Mihir; Frankle, Jonathan; Stephenson, Cory; Kuleshov, Volodymyr |
+| 29 * | [Personalized Comic Story Generation](papers/ml4cd2023_paper29.pdf) | PENG, WENXUAN; Schaldenbrand, Peter; Oh, Jean |
+| 30  | [Combating the "Sameness" in AI Art: Reflections on the Interactive AI Installation Fencing Hallucination](papers/ml4cd2023_paper30.pdf) | Qiu, Weihao; legrady, george |
+| 31  | [SynthScribe: Deep Multimodal Tools for Synthesizer Sound Retrieval and Exploration](papers/ml4cd2023_paper31.pdf) | Brade, Stephen; Oore, Sageev; Wang, Bryan; Sousa, Mauricio; Grossman, Tovi; Newsome, Greg |
+| 32 * | [WordArt Designer API: User-Driven Artistic Typography Synthesis with Large Language Models on ModelScope](papers/ml4cd2023_paper32.pdf) | HE, JUN-YAN; Cheng , Zhi-Qi; Li, Chenyang; Sun, Jingdong; Xiang, Wangmeng; Hu, Yusen; Lin, Xianhui; Kang, Xiaoyang; Jin, Zengke; Luo, Bin; Geng, Yifeng; Xie, Xuansong; Zhou, Jingren |
+
+
 ## How to attend
 
 A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). This will allow you to attend the workshop in-person. The workshop will be held on Saturday Dec 16 at the New Orleans Ernest N. Morial Convention Center.
