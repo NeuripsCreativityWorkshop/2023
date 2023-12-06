@@ -52,7 +52,7 @@ The following schedule is tentative.
 
 ## Accepted Papers
           
-* marks spotlight paper.
+Note: * marks spotlight paper.
 
 | # | Title    | Authors  |
 |---------|----------|--------|
