@@ -89,6 +89,41 @@ Note: * marks spotlight paper.
 | 31  | [SynthScribe: Deep Multimodal Tools for Synthesizer Sound Retrieval and Exploration](papers/ml4cd2023_paper31.pdf) | Brade, Stephen; Oore, Sageev; Wang, Bryan; Sousa, Mauricio; Grossman, Tovi; Newsome, Greg |
 | 32 * | [WordArt Designer API: User-Driven Artistic Typography Synthesis with Large Language Models on ModelScope](papers/ml4cd2023_paper32.pdf) | HE, JUN-YAN; Cheng , Zhi-Qi; Li, Chenyang; Sun, Jingdong; Xiang, Wangmeng; Hu, Yusen; Lin, Xianhui; Kang, Xiaoyang; Jin, Zengke; Luo, Bin; Geng, Yifeng; Xie, Xuansong; Zhou, Jingren |
 
+## Accepted Artworks
+
+This year we accepted 27 artworks to the gallery from a total of 52 artwork submissions, resulting in a 51.9% acceptance rate. 
+
+Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, August von Trapp, and the organizers of this workshop (Yingtao Tian, Lia Coleman, Tom White, Hannah Johnston).
+
+| Artwork Title                                          | Artist Names                                                                                                                        |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| EvoGen: Evolutionary Diffusion Model Prompt Generation | Petersen, Magnus\*                                                                                                                  |
+| Envisioning Distant Worlds                             | Beaty, Marissa\*; Broad, Terence                                                                                                    |
+| Movies Never Made                                      | Wilke, J. Brad\*                                                                                                                    |
+| mememormee                                             | Pettee, Mariel\*                                                                                                                    |
+| Gender Tapestry                                        | Rosenbaum, J\*                                                                                                                      |
+| Like a natural phenomenon                              | Shibuya, Kazufumi\*                                                                                                                 |
+| THE RAVEN                                              | Lu, Wei\*; Luo, Xuehui                                                                                                              |
+| Mega Giga                                              | Kazuki, Abe\*                                                                                                                       |
+| Potential Form                                         | Kazuki, Abe\*                                                                                                                       |
+| Attraction of image                                    | Ishii, Asuka\*; Nagata, Kazuki                                                                                                      |
+| Tick Tock                                              | Epstein, Vadim\*                                                                                                                    |
+| Scores for the Virtual                                 | Epstein, Vadim\*; Winkler, Christoph                                                                                                |
+| Neuracappella                                          | Ng, Zihou\*                                                                                                                         |
+| GPT-ME                                                 | Meshi, Avital\*                                                                                                                     |
+| Peekaboo                                               | Meshi, Avital\*                                                                                                                     |
+| SURVA.I.LANCE                                          | Thompson, Ryan\*                                                                                                                    |
+| nocturneInteractivePerformance1.txt                    | Oore, Sageev\*; D'Eon, Jason; Miller, Finlay; Becker, Nic; Lowe, Scott C; Oore, Daniel                                              |
+| You don't know what this is                            | Shibuya, Kazufumi\*                                                                                                                 |
+| John Connor Project (BIGYUKI × Qosmo)                  | Tokui, Nao\*                                                                                                                        |
+| The Unknown                                            | Porres, Diego\*                                                                                                                     |
+| Beneath the Surface                                    | Ozoani, Ezinwanne\*                                                                                                                 |
+| Unreal Pareidolia -shadows-                            | Aoki, Seiya\*                                                                                                                       |
+| Fragments of Autumn                                    | Park, Jihyeon\*                                                                                                                     |
+| Subsumption No. 1                                      | Tallon, Tina\*                                                                                                                      |
+| Vision of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
+| Mythos Synthscribe Remix: Deus in Machina (2023)       | Oore, Daniel; Staniland, Andrew; Brade, Stephen; Wang, Bryan; Sousa, Mauricio; Newsome, Gregory Lee; Grossman, Tovi; Oore, Sageev\* |
+| Imaginary-shell                                        | Sano, Fushi\*                                                                                                                       |
 
 ## How to attend
 
