@@ -51,8 +51,9 @@ The following schedule is tentative.
 
 
 ## Accepted Papers
-          
-Note: * marks spotlight paper.
+
+This year we accepted 32 papers from a total of 80 paper submissions, resulting in a 40% acceptance rate. Among accepted papers, 7 are selected as spotlight papers, marked with * below.
+        
 
 | # | Title    | Authors  |
 |---------|----------|--------|
