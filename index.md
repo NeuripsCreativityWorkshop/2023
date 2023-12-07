@@ -92,9 +92,20 @@ This year we accepted 32 papers from a total of 80 paper submissions, resulting 
 
 ## Accepted Artworks
 
-This year we accepted 27 artworks to the gallery from a total of 52 artwork submissions, resulting in a 51.9% acceptance rate. 
+This year we accepted 27 artworks to the gallery from a total of 52 artwork submissions, resulting in a 51.9% acceptance rate. Five exceptional artworks were awarded a spotlight, where they have the option to speak 5 min about the artwork during the workshop. All artworks will also be shown at the workshop in the form of an art show video screening.
 
 Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, August von Trapp, Yingtao Tian, Lia Coleman, Tom White, Hannah Johnston.
+
+### Artwork Spotlights
+| Artwork Title                                          | Artist Names                                                                                                                        |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Vision of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
+| Unreal Pareidolia -shadows-                            | Allen, Scott\*                                                                                                                       |
+| Beneath the Surface                                    | Ozoani, Ezinwanne\*                                                                                                                 |
+| mememormee                                             | Pettee, Mariel\*                                                                                                                    |
+| Scores for the Virtual                                 | Epstein, Vadim\*; Winkler, Christoph                                                                                                |
+
+### All Artworks
 
 | Artwork Title                                          | Artist Names                                                                                                                        |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
