@@ -93,7 +93,7 @@ Note: * marks spotlight paper.
 
 This year we accepted 27 artworks to the gallery from a total of 52 artwork submissions, resulting in a 51.9% acceptance rate. 
 
-Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, August von Trapp, and the organizers of this workshop (Yingtao Tian, Lia Coleman, Tom White, Hannah Johnston).
+Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, August von Trapp, Yingtao Tian, Lia Coleman, Tom White, Hannah Johnston.
 
 | Artwork Title                                          | Artist Names                                                                                                                        |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
