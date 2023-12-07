@@ -118,7 +118,7 @@ Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, Augu
 | John Connor Project (BIGYUKI × Qosmo)                  | Tokui, Nao\*                                                                                                                        |
 | The Unknown                                            | Porres, Diego\*                                                                                                                     |
 | Beneath the Surface                                    | Ozoani, Ezinwanne\*                                                                                                                 |
-| Unreal Pareidolia -shadows-                            | Aoki, Seiya\*                                                                                                                       |
+| Unreal Pareidolia -shadows-                            | Allen, Scott\*                                                                                                                       |
 | Fragments of Autumn                                    | Park, Jihyeon\*                                                                                                                     |
 | Subsumption No. 1                                      | Tallon, Tina\*                                                                                                                      |
 | Vision of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
