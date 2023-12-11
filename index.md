@@ -97,13 +97,13 @@ This year we accepted 27 artworks to the gallery from a total of 52 artwork subm
 Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, August von Trapp, Yingtao Tian, Lia Coleman, Tom White, and Hannah Johnston.
 
 ### Artwork Spotlights
-| Artwork Title                                          | Artist Names                                                                                                                        |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Vision of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
-| Unreal Pareidolia -shadows-                            | Allen, Scott\*                                                                                                                       |
-| Beneath the Surface                                    | Ozoani, Ezinwanne\*                                                                                                                 |
-| mememormee                                             | Pettee, Mariel\*                                                                                                                    |
-| Scores for the Virtual                                 | Epstein, Vadim\*; Winkler, Christoph                                                                                                |
+| Artwork Title | Artist Names   |
+| ------------- | ------------- |
+| Vision of Destruction   | Canet Sola, Mar\*; Guljajeva, Varvara    |
+| Unreal Pareidolia -shadows-      | Allen, Scott\*   |
+| Beneath the Surface | Ozoani, Ezinwanne\*  |
+| mememormee         | Pettee, Mariel\*        |
+| Scores for the Virtual    | Epstein, Vadim\*; Winkler, Christoph        |
 
 ### All Artworks
 
