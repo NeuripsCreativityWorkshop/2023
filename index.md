@@ -19,7 +19,7 @@ We will aim to balance addressing the technical issues and challenges of applyin
 The goal of this workshop is to bring together researchers and artists interested in exploring the intersection of human creativity and machine learning. This workshop solicits viewpoints from artists and technology developers to look beyond technical issues to better understand the needs of artists and creators. 
 
 ## Invited Speakers
-- Jun-Yan Zhu, Carnegie Mellon University (update: will be presented by Richard Zhang, Senior Research Scientist Adobe Research)
+- Richard Zhang, Senior Research Scientist Adobe Research
 - Cristóbal Valenzuela, RunwayML Co-Founder and CEO
 - Lvming Zhang, Stanford University
 - Misha Konstantinov and Daria Bakshandaeva, DeepFloyd Lead Researchers
