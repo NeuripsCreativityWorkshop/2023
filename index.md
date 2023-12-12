@@ -33,9 +33,9 @@ The following schedule is tentative.
 | Time (CST) | Duration | Event                               |
 |------------|----------|-------------------------------------|
 |    8:15 AM |  0:15:00 | Welcome and Introduction            |
-|    8:30 AM |  0:30:00 | Invited Talk- Alexander Mordvintsev & Ettore Randazzo |
+|    8:30 AM |  0:30:00 | Invited Talk- Richard Zhang |
 |    9:00 AM |  0:30:00 | Invited Talk- Misha Konstantinov & Daria Bakshandaeva     |
-|    9:30 AM |  0:30:00 | Invited Talk- Richard Zhang        |
+|    9:30 AM |  0:30:00 | Invited Talk-Alexander Mordvintsev & Ettore Randazzo          |
 |   10:00 AM |  0:30:00 | Art gallery / Coffee Break / Social |
 |   10:30 AM |  0:30:00 | Panel Discussion                    |
 |   11:00 AM |  1:00:00 | Paper & Artwork Spotlights           |
