@@ -21,7 +21,7 @@ The goal of this workshop is to bring together researchers and artists intereste
 ## Invited Speakers
 - Richard Zhang, Senior Research Scientist Adobe Research
 - Cristóbal Valenzuela, RunwayML Co-Founder and CEO
-- Tianwei Lin, MIT
+- Tianwei Yin, MIT
 - Misha Konstantinov and Daria Bakshandaeva, DeepFloyd Lead Researchers
 - Aleksander Holynski, UC Berkeley and Google Research
 - Alexander Mordvintsev, Google Research
@@ -41,7 +41,7 @@ The following schedule is tentative.
 |   11:00 AM |  1:00:00 | Paper & Artwork Spotlights           |
 |   12:00 PM |  1:00:00 | Lunch                               |
 |    1:00 PM |  0:30:00 | Invited Talk- Aleksander Holynski                      |
-|    1:30 PM |  0:30:00 | Invited Talk- Tianwei Lin                       |
+|    1:30 PM |  0:30:00 | Invited Talk- Tianwei Yin                       |
 |    2:00 PM |  0:30:00 | Invited Talk- Cristóbal Valenzuela                   |
 |    2:30 PM |  0:30:00 | Panel/Open Discussion               |
 |    3:00 PM |  0:30:00 | Art / Coffee Break / Social         |
