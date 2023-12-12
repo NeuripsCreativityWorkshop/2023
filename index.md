@@ -128,7 +128,7 @@ Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, Augu
 | SURVA.I.LANCE                                          | Thompson, Ryan\*                                                                                                                    |
 | nocturneInteractivePerformance1.txt                    | Oore, Sageev\*; D'Eon, Jason; Miller, Finlay; Becker, Nic; Lowe, Scott C; Oore, Daniel                                              |
 | You don't know what this is                            | Shibuya, Kazufumi\*                                                                                                                 |
-| John Connor Project (BIGYUKI × Qosmo)                  | Tokui, Nao\*                                                                                                                        |
+| John Connor Project (BIGYUKI × Qosmo)                  | Tokui, Nao; BIGYUKI; Nakajima, Ryosuke; Han, Alex; Sugano, Kaoru                                                                                                                        |
 | The Unknown                                            | Porres, Diego\*                                                                                                                     |
 | Beneath the Surface                                    | Ozoani, Ezinwanne\*                                                                                                                 |
 | Unreal Pareidolia -shadows-                            | Allen, Scott\*                                                                                                                       |
