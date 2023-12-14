@@ -33,17 +33,17 @@ The following schedule is tentative.
 | Time (CST) | Duration | Event                               |
 |------------|----------|-------------------------------------|
 |    8:15 AM |  0:15:00 | Welcome and Introduction            |
-|    8:30 AM |  0:30:00 | Invited Talk- Richard Zhang |
-|    9:00 AM |  0:30:00 | Invited Talk- Misha Konstantinov & Daria Bakshandaeva     |
-|    9:30 AM |  0:30:00 | Invited Talk-Alexander Mordvintsev & Ettore Randazzo          |
+|    8:40 AM |  0:20:00 | Invited Talk - Tianwei Yin          |
+|    9:00 AM |  0:25:00 | Invited Talk - Misha Konstantinov & Daria Bakshandaeva  |
+|    9:30 AM |  0:25:00 | Invited Talk - Alexander Mordvintsev & Ettore Randazzo  |
 |   10:00 AM |  0:30:00 | Art gallery / Coffee Break / Social |
 |   10:30 AM |  0:30:00 | Panel Discussion                    |
-|   11:00 AM |  1:00:00 | Paper & Artwork Spotlights           |
+|   11:00 AM |  1:00:00 | Paper & Artwork Spotlights          |
 |   12:00 PM |  1:00:00 | Lunch                               |
-|    1:00 PM |  0:30:00 | Invited Talk- Aleksander Holynski                      |
-|    1:30 PM |  0:30:00 | Invited Talk- Tianwei Yin                       |
-|    2:00 PM |  0:30:00 | Invited Talk- Cristóbal Valenzuela                   |
-|    2:30 PM |  0:30:00 | Panel/Open Discussion               |
+|    1:00 PM |  0:30:00 | Invited Talk - Aleksander Holynski  |
+|    1:30 PM |  0:25:00 | Invited Talk - Richard Zhang        |
+|    2:00 PM |  0:30:00 | Invited Talk - Cristóbal Valenzuela |
+|    2:30 PM |  0:30:00 | Panel / Open Discussion             |
 |    3:00 PM |  0:30:00 | Art / Coffee Break / Social         |
 |    3:30 PM |  1:00:00 | Poster session                      |
 |    4:30 PM |  0:10:00 | Conclusion                          |
