@@ -33,7 +33,7 @@ The following schedule is tentative.
 | Time (CST) | Duration | Event                               |
 |------------|----------|-------------------------------------|
 |    8:15 AM |  0:15:00 | Welcome and Introduction            |
-|    8:40 AM |  0:20:00 | Invited Talk 1 - Tianwei Yin         |
+|    8:30 AM |  0:30:00 | Invited Talk 1 - Tianwei Yin         |
 |    9:00 AM |  0:25:00 | Invited Talk 2 - Misha Konstantinov & Daria Bakshandaeva (remote) |
 |    9:30 AM |  0:25:00 | Invited Talk 3 - Alexander Mordvintsev & Ettore Randazzo  (remote) |
 |   10:00 AM |  0:30:00 | Art gallery / Coffee Break / Social |
