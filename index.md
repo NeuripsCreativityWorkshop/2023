@@ -130,10 +130,10 @@ Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, Augu
 | You don't know what this is                            | Shibuya, Kazufumi\*                                                                                                                 |
 | John Connor Project (BIGYUKI × Qosmo)                  | Tokui, Nao; BIGYUKI; Nakajima, Ryosuke; Han, Alex; Sugano, Kaoru                                                                                                                        |
 | The Unknown                                            | Porres, Diego\*                                                                                                                     |
-| Beneath the Surface                                    | Ozoani, Ezinwanne\*                                                                                                                 |
+| Beneath the Surface                                    | Ozoani, Ezinwanne\*; Tsaban, Linoy                                                                                                                 |
 | Unreal Pareidolia -shadows-                            | Allen, Scott\*                                                                                                                       |
 | Fragments of Autumn                                    | Park, Jihyeon\*                                                                                                                     |
-| Subsumption No. 1                                      | Tallon, Tina\*                                                                                                                      |
+| Subsumption No. 1                                      | Tallon, Tina\*; Beacham, James                                                                                                                      |
 | Vision of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
 | Mythos Synthscribe Remix: Deus in Machina (2023)       | Oore, Daniel; Staniland, Andrew; Brade, Stephen; Wang, Bryan; Sousa, Mauricio; Newsome, Gregory Lee; Grossman, Tovi; Oore, Sageev\* |
 | Imaginary-shell                                        | Sano, Fushi\*                                                                                                                       |
