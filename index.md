@@ -102,7 +102,7 @@ Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, Augu
 | ------------- | ------------- |
 | Vision of Destruction   | Canet Sola, Mar\*; Guljajeva, Varvara    |
 | Unreal Pareidolia -shadows-      | Allen, Scott\*   |
-| Beneath the Surface | Ozoani, Ezinwanne\*  |
+| Beneath the Surface | Ozoani, Ezinwanne\*; Tsaban, Linoy  |
 | mememormee         | Pettee, Mariel\*        |
 | Scores for the Virtual    | Epstein, Vadim\*; Winkler, Christoph        |
 
