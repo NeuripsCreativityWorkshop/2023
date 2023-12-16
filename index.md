@@ -100,7 +100,7 @@ Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, Augu
 
 | Artwork Title | Artist Names   |
 | ------------- | ------------- |
-| Vision of Destruction   | Canet Sola, Mar\*; Guljajeva, Varvara    |
+| Visions of Destruction   | Canet Sola, Mar\*; Guljajeva, Varvara    |
 | Unreal Pareidolia -shadows-      | Allen, Scott\*   |
 | Beneath the Surface | Ozoani, Ezinwanne\*; Tsaban, Linoy  |
 | mememormee         | Pettee, Mariel\*        |
@@ -134,7 +134,7 @@ Special thanks to the artwork jury: Eunsu Kang, Terence Broad, Yvonne Fang, Augu
 | Unreal Pareidolia -shadows-                            | Allen, Scott\*                                                                                                                       |
 | Fragments of Autumn                                    | Park, Jihyeon\*                                                                                                                     |
 | Subsumption No. 1                                      | Tallon, Tina\*; Beacham, James                                                                                                                      |
-| Vision of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
+| Visions of Destruction                                  | Canet Sola, Mar\*; Guljajeva, Varvara                                                                                               |
 | Mythos Synthscribe Remix: Deus in Machina (2023)       | Oore, Daniel; Staniland, Andrew; Brade, Stephen; Wang, Bryan; Sousa, Mauricio; Newsome, Gregory Lee; Grossman, Tovi; Oore, Sageev\* |
 | Imaginary-shell                                        | Sano, Fushi\*                                                                                                                       |
 
